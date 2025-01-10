@@ -52,10 +52,10 @@ If you'd like to contribute to this project, feel free to fork the repository, m
 This project is licensed under the Free To Use License. 📜
 
 ## Acknowledgements
-🎶 Librosa: For audio feature extraction.
-🤖 Scikit-learn: For the MLP Classifier and other machine learning algorithms.
-🧠 TensorFlow/Keras: For deep learning models (if used).
-🎤 RAVDESS/TESS: Datasets used for training the emotion recognition models.
+- 🎶 Librosa: For audio feature extraction.
+- 🤖 Scikit-learn: For the MLP Classifier and other machine learning algorithms.
+- 🧠 TensorFlow/Keras: For deep learning models (if used).
+- 🎤 RAVDESS/TESS: Datasets used for training the emotion recognition models.
 
 
 ### NOTICE make sure u have the dataset downloaded 
