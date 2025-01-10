@@ -49,7 +49,7 @@ Contributing
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and create a pull request. Please make sure to follow the coding guidelines and include proper documentation for any new features or changes. 🙌
 
 ## License
-This project is licensed under the MIT License. 📜
+This project is licensed under the Free To Use License. 📜
 
 ## Acknowledgements
 🎶 Librosa: For audio feature extraction.
