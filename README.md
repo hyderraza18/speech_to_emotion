@@ -3,8 +3,7 @@
 ## Table of Contents  
 - [Introduction](#introduction)  
 - [Features](#features)  
-- [Installation](#installation)  
-- [Usage](#usage)  
+- [Installation](#installation)    
 - [Dataset](#dataset)  
 - [Model](#model)  
 - [Results](#results)  
@@ -39,13 +38,14 @@ Pre-trained models are provided for quick testing and evaluation.
 ## Results
 📊 The system classifies emotions and provides results in the form of emojis. Based on the detected emotion, the system will output an emoji that corresponds to the emotional state, such as:
 
-😊 Happiness
-😞 Sadness
-😠 Anger
-😱 Fear
-😮 Surprise
-😐 Neutral
-Contributing
+- 😊 Happiness
+- 😞 Sadness
+- 😠 Anger
+- 😱 Fear
+- 😮 Surprise
+- 😐 Neutral
+
+## Contributing
 If you'd like to contribute to this project, feel free to fork the repository, make changes, and create a pull request. Please make sure to follow the coding guidelines and include proper documentation for any new features or changes. 🙌
 
 ## License
